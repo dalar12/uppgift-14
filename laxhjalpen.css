@@ -258,3 +258,20 @@ td:nth-child(2) {
 	text-align: right;
 	font-family: Consolas, "Lucida Console", Monaco, monospace;
 }
+/*
+====================================================================================
+14.7 Script
+====================================================================================
+*/
+.blockslider {
+	height: 300px;
+	margin-bottom: 20px;
+}
+.nivoSlider {
+	margin:	0 auto;
+	width:	618px;
+	height:	246px;
+}
+.nivo-caption {
+	text-align:	center;
+}
